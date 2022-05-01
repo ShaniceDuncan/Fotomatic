@@ -1,0 +1,2 @@
+# Fotomatic
+Codecademy Project Fotomatic
