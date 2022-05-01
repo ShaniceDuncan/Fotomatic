@@ -1,5 +1,5 @@
 # Fotomatic
-Codecademy Off-Platform Project Fotomatic Practices: 
+The Off-Platform Project from Codecademy, "Fotomatic", Practices: 
 - CSS Grid
 - Responsive Design
 - Documentation and Research
