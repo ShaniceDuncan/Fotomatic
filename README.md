@@ -1,5 +1,4 @@
-# Fotomatic
-https://sesameblack.github.io/Fotomatic/
+# Fotomatic https://sesameblack.github.io/Fotomatic/
 The Off-Platform Project from Codecademy, "Fotomatic", Practices: 
 - CSS Grid
 - Responsive Design
