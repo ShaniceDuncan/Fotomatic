@@ -243,6 +243,7 @@ header .mobile {
 @media only screen and (max-width: 450px) {
   .sign-up-section {
     height: 20rem;
+    background-position: right;
   }
 
   .sign-up-cta {
@@ -365,12 +366,17 @@ header .mobile {
     padding: 0;
   }
 
-  .content {
-    padding-top: 1rem;
+  .feature .center .content {
     padding-bottom: 1.875rem;
   }
 
-  .image-container {
+  .feature h3,
+  .feature h2 {
+    max-width: none;
+  }
+
+  .feature .image-container {
+    margin: 1rem;
     padding: 0;
   }
 }
@@ -479,6 +485,8 @@ header .mobile {
 }
 
 @media only screen and (max-width: 450px) {
+  .quotes-section .quote-citation {
+  }
 }
 
 /* Footer */
