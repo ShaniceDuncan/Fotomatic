@@ -367,7 +367,7 @@ header .mobile {
 
   .feature .center .content {
     padding-top: 1rem;
-    padding-right: 1.875rem;
+    padding-bottom: 1.875rem;
   }
 
   .image-container {
@@ -436,7 +436,6 @@ header .mobile {
 }
 
 @media only screen and (max-width: 450px) {
-
 }
 
 /* Quotes Section */
@@ -480,7 +479,6 @@ header .mobile {
 }
 
 @media only screen and (max-width: 450px) {
-
 }
 
 /* Footer */
