@@ -1,5 +1,5 @@
 # Fotomatic
-https://sesameblack.github.io/Fotomatic/
+https://shaniceduncan.github.io/Fotomatic/
 
 The Off-Platform Project from Codecademy, "Fotomatic", Practices: 
 - CSS Grid
