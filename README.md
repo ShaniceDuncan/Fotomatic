@@ -1,7 +1,7 @@
 # Fotomatic
 https://shaniceduncan.github.io/Fotomatic/
 
-The Off-Platform Project from Codecademy, "Fotomatic", Practices: 
+The Fotomatic Project, Practices: 
 - CSS Grid
 - Responsive Design
 - Media Queries
